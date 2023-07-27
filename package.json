@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "node-with-appscript",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ja1m1t0/node-with-appscript.git"
+  },
+  "author": "Jaime Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ja1m1t0/node-with-appscript/issues"
+  },
+  "homepage": "https://github.com/ja1m1t0/node-with-appscript#readme",
+  "description": ""
+}
