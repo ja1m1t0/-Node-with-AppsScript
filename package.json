@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ja1m1t0/node-with-appscript.git"
+    "url": "git+https://github.com/ja1m1t0/-Node-with-AppsScript.git"
   },
   "author": "Jaime Gonzalez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ja1m1t0/node-with-appscript/issues"
+    "url": "https://github.com/ja1m1t0/-Node-with-AppsScript/issues"
   },
-  "homepage": "https://github.com/ja1m1t0/node-with-appscript#readme",
+  "homepage": "https://github.com/ja1m1t0/-Node-with-AppsScript#readme",
   "description": ""
 }
